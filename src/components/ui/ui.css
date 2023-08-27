@@ -1,0 +1,13 @@
+.appContain {
+    /* background-color: blue; */
+    position: relative;
+    width: 100%;
+}
+
+.appContainChild {
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    /* background-color: red; */
+}

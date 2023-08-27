@@ -1,0 +1,15 @@
+.home {
+    margin: 0px;
+    padding: 0px;
+    min-height: 100vh;
+    /* cursor:url("./../../assets/paint-brush.png"),auto; */
+   
+}
+
+.banner {
+    background-image: url('./../../assets/shape.png'),url('./../../assets/shape.png');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: right 5%,left 80%; 
+    /* background-color: #63FCB8; */
+}

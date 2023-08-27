@@ -1,0 +1,86 @@
+.intro-text {
+    color: #4C4E51;
+    font-family: Nunito;
+    font-size: 3.625rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 4rem; /* 141.379% */
+    margin-top: .7rem;
+
+}
+
+.left {
+    padding-top: 6rem;
+}
+
+.invite {
+    color: #58595B;
+    font-family: Nunito;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; /* 173.913% */
+    margin-top: 2rem;
+    margin-bottom:1.875rem ;
+}
+
+
+.getInBtn {
+    border: transparent;
+    display: flex;
+    width: 11.938rem;
+    height: 2.5rem;
+    padding: 9.317px 22.361px;
+    justify-content: center;
+    align-items: center;
+    gap: 8.385px;
+    flex-shrink: 0;
+    border-radius: 26px;
+    background: #EAB945;
+    box-shadow: 0px 0px 5.590000152587891px 0px rgba(0, 0, 0, 0.26);
+    color: #fff;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23.852px;
+    transition: all 0.5s ease;
+}
+
+.getInBtn:hover {
+    background-color: #fff;
+    color: #000;
+    transform: scale(1.1);
+    font-size: 16px;
+    transition: all 0.5s ease;
+    cursor: pointer;
+}
+.getInBtn .eastIcon {
+    transition: all 0.2s ease;
+}
+.getInBtn:hover .eastIcon {
+    color: #000;
+    transform: rotate(-30deg);
+    transition: all 0.2s ease;
+}
+
+.av-work {
+    border-radius: 7px;
+    width: 7rem;
+    background: linear-gradient(180deg, #63FCB8 0%, rgba(41, 101, 74, 0.97) 98.23%);
+    color: #FFF;
+    font-family: Nunito;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px; /* 181.818% */
+    text-align: center;
+}
+
+
+.productImage {
+    width: 100%;
+}
+
+
