@@ -10,6 +10,12 @@
     background-image: url('./../../assets/shape.png'),url('./../../assets/shape.png');
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-position: right 5%,left 80%; 
+    background-position: right 5%,left 100%; 
+    padding-bottom:6rem;
+
     /* background-color: #63FCB8; */
+}
+
+.project-sportlight {
+    padding-top: 4rem;
 }
